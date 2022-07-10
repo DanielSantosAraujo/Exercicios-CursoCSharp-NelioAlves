@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\bin\Debug\net6.0\Switch-case.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\bin\Debug\net6.0\Switch-case.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\bin\Debug\net6.0\Switch-case.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\bin\Debug\net6.0\Switch-case.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\bin\Debug\net6.0\Switch-case.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\refint\Switch-case.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\Switch-case.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Switch-case\obj\Debug\net6.0\ref\Switch-case.dll

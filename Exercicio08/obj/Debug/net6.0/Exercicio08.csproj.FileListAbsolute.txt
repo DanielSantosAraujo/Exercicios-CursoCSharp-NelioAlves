@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\bin\Debug\net6.0\Exercicio08.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\bin\Debug\net6.0\Exercicio08.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\bin\Debug\net6.0\Exercicio08.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\bin\Debug\net6.0\Exercicio08.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\bin\Debug\net6.0\Exercicio08.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\refint\Exercicio08.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\Exercicio08.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio08\obj\Debug\net6.0\ref\Exercicio08.dll

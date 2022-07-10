@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\bin\Debug\net6.0\Exercicio07.ClasseEstaticas.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\bin\Debug\net6.0\Exercicio07.ClasseEstaticas.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\bin\Debug\net6.0\Exercicio07.ClasseEstaticas.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\bin\Debug\net6.0\Exercicio07.ClasseEstaticas.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\bin\Debug\net6.0\Exercicio07.ClasseEstaticas.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\refint\Exercicio07.ClasseEstaticas.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\Exercicio07.ClasseEstaticas.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Exercicio07.ClasseEstaticas\obj\Debug\net6.0\ref\Exercicio07.ClasseEstaticas.dll

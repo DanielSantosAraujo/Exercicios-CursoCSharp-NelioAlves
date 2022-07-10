@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\DateTime\obj\Debug\net6.0\ref\DateTime.dll

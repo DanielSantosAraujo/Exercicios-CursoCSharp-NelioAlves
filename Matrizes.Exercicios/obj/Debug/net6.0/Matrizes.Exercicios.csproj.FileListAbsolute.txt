@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\bin\Debug\net6.0\Matrizes.Exercicios.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\bin\Debug\net6.0\Matrizes.Exercicios.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\bin\Debug\net6.0\Matrizes.Exercicios.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\bin\Debug\net6.0\Matrizes.Exercicios.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\bin\Debug\net6.0\Matrizes.Exercicios.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\refint\Matrizes.Exercicios.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\Matrizes.Exercicios.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Matrizes.Exercicios\obj\Debug\net6.0\ref\Matrizes.Exercicios.dll

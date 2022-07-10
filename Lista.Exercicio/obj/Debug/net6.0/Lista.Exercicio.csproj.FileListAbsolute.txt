@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\bin\Debug\net6.0\Lista.Exercicio.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\bin\Debug\net6.0\Lista.Exercicio.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\bin\Debug\net6.0\Lista.Exercicio.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\bin\Debug\net6.0\Lista.Exercicio.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\bin\Debug\net6.0\Lista.Exercicio.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\refint\Lista.Exercicio.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\Lista.Exercicio.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Lista.Exercicio\obj\Debug\net6.0\ref\Lista.Exercicio.dll

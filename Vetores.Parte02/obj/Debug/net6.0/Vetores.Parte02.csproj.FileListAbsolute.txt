@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\bin\Debug\net6.0\Vetores.Parte02.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\bin\Debug\net6.0\Vetores.Parte02.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\bin\Debug\net6.0\Vetores.Parte02.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\bin\Debug\net6.0\Vetores.Parte02.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\bin\Debug\net6.0\Vetores.Parte02.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\refint\Vetores.Parte02.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\Vetores.Parte02.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Vetores.Parte02\obj\Debug\net6.0\ref\Vetores.Parte02.dll

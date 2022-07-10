@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\refint\Construtores.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Construtores\obj\Debug\net6.0\ref\Construtores.dll

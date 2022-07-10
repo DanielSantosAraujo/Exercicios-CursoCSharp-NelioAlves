@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\bin\Debug\net6.0\Pratica_Encapsulamento.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\bin\Debug\net6.0\Pratica_Encapsulamento.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\bin\Debug\net6.0\Pratica_Encapsulamento.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\bin\Debug\net6.0\Pratica_Encapsulamento.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\bin\Debug\net6.0\Pratica_Encapsulamento.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\refint\Pratica_Encapsulamento.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\Pratica_Encapsulamento.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Pratica_Encapsulamento\obj\Debug\net6.0\ref\Pratica_Encapsulamento.dll

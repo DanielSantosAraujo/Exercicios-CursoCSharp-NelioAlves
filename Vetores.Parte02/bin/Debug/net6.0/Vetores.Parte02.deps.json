@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vetores.Parte02/1.0.0": {
+        "runtime": {
+          "Vetores.Parte02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vetores.Parte02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

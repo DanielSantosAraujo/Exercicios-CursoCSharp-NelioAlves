@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\bin\Debug\net6.0\ModificadorParams.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\bin\Debug\net6.0\ModificadorParams.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\bin\Debug\net6.0\ModificadorParams.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\bin\Debug\net6.0\ModificadorParams.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\bin\Debug\net6.0\ModificadorParams.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\refint\ModificadorParams.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ModificadorParams.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ModificadorParams\obj\Debug\net6.0\ref\ModificadorParams.dll

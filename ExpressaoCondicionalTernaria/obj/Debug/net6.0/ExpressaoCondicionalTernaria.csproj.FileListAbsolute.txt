@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\bin\Debug\net6.0\ExpressaoCondicionalTernaria.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\bin\Debug\net6.0\ExpressaoCondicionalTernaria.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\bin\Debug\net6.0\ExpressaoCondicionalTernaria.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\bin\Debug\net6.0\ExpressaoCondicionalTernaria.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\bin\Debug\net6.0\ExpressaoCondicionalTernaria.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\refint\ExpressaoCondicionalTernaria.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ExpressaoCondicionalTernaria.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExpressaoCondicionalTernaria\obj\Debug\net6.0\ref\ExpressaoCondicionalTernaria.dll

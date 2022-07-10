@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\bin\Debug\net6.0\ExercicioSobreVetores.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\bin\Debug\net6.0\ExercicioSobreVetores.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\bin\Debug\net6.0\ExercicioSobreVetores.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\bin\Debug\net6.0\ExercicioSobreVetores.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\bin\Debug\net6.0\ExercicioSobreVetores.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\refint\ExercicioSobreVetores.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ExercicioSobreVetores.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ExercicioSobreVetores\obj\Debug\net6.0\ref\ExercicioSobreVetores.dll
