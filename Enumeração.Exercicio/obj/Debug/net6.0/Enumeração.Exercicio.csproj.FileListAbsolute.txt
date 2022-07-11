@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\bin\Debug\net6.0\Enumeração.Exercicio.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\bin\Debug\net6.0\Enumeração.Exercicio.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\bin\Debug\net6.0\Enumeração.Exercicio.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\bin\Debug\net6.0\Enumeração.Exercicio.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\bin\Debug\net6.0\Enumeração.Exercicio.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\refint\Enumeração.Exercicio.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\Enumeração.Exercicio.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\Enumeração.Exercicio\obj\Debug\net6.0\ref\Enumeração.Exercicio.dll
