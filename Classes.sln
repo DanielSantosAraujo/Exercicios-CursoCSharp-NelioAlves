@@ -59,9 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerações", "Enumeraç�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeração.Exercicio", "Enumeração.Exercicio\Enumeração.Exercicio.csproj", "{46B05D3E-A02E-4CA8-9192-48601655E752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeração.exercicio02", "Enumeração.exercicio02\Enumeração.exercicio02.csproj", "{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeração.exercicio02", "Enumeração.exercicio02\Enumeração.exercicio02.csproj", "{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumComposicaoExer03", "EnumComposicaoExer03\EnumComposicaoExer03.csproj", "{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumComposicaoExer03", "EnumComposicaoExer03\EnumComposicaoExer03.csproj", "{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herança", "Herança\Herança.csproj", "{D5459904-980E-479B-A314-C84FA67AC930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerançaPolimorfismoExercicio1", "HerançaPolimorfismoExercicio1\HerançaPolimorfismoExercicio1.csproj", "{18414817-F3EB-42AE-B039-929C42CE5F3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +193,14 @@ Global
 		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5459904-980E-479B-A314-C84FA67AC930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5459904-980E-479B-A314-C84FA67AC930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5459904-980E-479B-A314-C84FA67AC930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5459904-980E-479B-A314-C84FA67AC930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
