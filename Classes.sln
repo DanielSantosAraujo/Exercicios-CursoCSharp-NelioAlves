@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeração.Exercicio", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeração.exercicio02", "Enumeração.exercicio02\Enumeração.exercicio02.csproj", "{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumComposicaoExer03", "EnumComposicaoExer03\EnumComposicaoExer03.csproj", "{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
