@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeSpan", "TimeSpan\TimeSp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumerações", "Enumerações\Enumerações.csproj", "{EFB32D16-954F-4C78-8205-FBA8684B721F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeração.Exercicio", "Enumeração.Exercicio\Enumeração.Exercicio.csproj", "{46B05D3E-A02E-4CA8-9192-48601655E752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeração.Exercicio", "Enumeração.Exercicio\Enumeração.Exercicio.csproj", "{46B05D3E-A02E-4CA8-9192-48601655E752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeração.exercicio02", "Enumeração.exercicio02\Enumeração.exercicio02.csproj", "{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{46B05D3E-A02E-4CA8-9192-48601655E752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46B05D3E-A02E-4CA8-9192-48601655E752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46B05D3E-A02E-4CA8-9192-48601655E752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363473D5-EB78-41D9-AC3C-BAFF7FFE9336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
