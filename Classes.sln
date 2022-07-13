@@ -63,9 +63,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeração.exercicio02", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumComposicaoExer03", "EnumComposicaoExer03\EnumComposicaoExer03.csproj", "{126F6BDD-32C1-42F6-9C0E-C11A1A898B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herança", "Herança\Herança.csproj", "{D5459904-980E-479B-A314-C84FA67AC930}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herança", "Herança\Herança.csproj", "{D5459904-980E-479B-A314-C84FA67AC930}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerançaPolimorfismoExercicio1", "HerançaPolimorfismoExercicio1\HerançaPolimorfismoExercicio1.csproj", "{18414817-F3EB-42AE-B039-929C42CE5F3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HerançaPolimorfismoExercicio1", "HerançaPolimorfismoExercicio1\HerançaPolimorfismoExercicio1.csproj", "{18414817-F3EB-42AE-B039-929C42CE5F3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerançaEPolimorfismoExercicio2", "HerançaEPolimorfismoExercicio2\HerançaEPolimorfismoExercicio2.csproj", "{70C5AE61-4956-41A0-8539-1412504AC42B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,10 @@ Global
 		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18414817-F3EB-42AE-B039-929C42CE5F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C5AE61-4956-41A0-8539-1412504AC42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C5AE61-4956-41A0-8539-1412504AC42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C5AE61-4956-41A0-8539-1412504AC42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C5AE61-4956-41A0-8539-1412504AC42B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\bin\Debug\net6.0\HerançaEPolimorfismoExercicio2.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\bin\Debug\net6.0\HerançaEPolimorfismoExercicio2.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\bin\Debug\net6.0\HerançaEPolimorfismoExercicio2.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\bin\Debug\net6.0\HerançaEPolimorfismoExercicio2.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\bin\Debug\net6.0\HerançaEPolimorfismoExercicio2.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\refint\HerançaEPolimorfismoExercicio2.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\HerançaEPolimorfismoExercicio2.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\HerançaEPolimorfismoExercicio2\obj\Debug\net6.0\ref\HerançaEPolimorfismoExercicio2.dll
