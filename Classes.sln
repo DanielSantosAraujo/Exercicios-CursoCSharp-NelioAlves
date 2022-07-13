@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAbstratos", "Metodos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoAbstratosExercicioProposto", "MetodoAbstratosExercicioProposto\MetodoAbstratosExercicioProposto.csproj", "{DC64749B-133B-40D1-88C3-C6B853C0DF40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoDeExceções", "TratamentoDeExceções\TratamentoDeExceções.csproj", "{C9A2522C-4AC0-48D9-A5BE-BC602804D954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoDeExerçõesExercicio", "TratamentoDeExerçõesExercicio\TratamentoDeExerçõesExercicio.csproj", "{1B31419B-4B96-492F-996C-5EB77E0C4FA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +229,14 @@ Global
 		{DC64749B-133B-40D1-88C3-C6B853C0DF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC64749B-133B-40D1-88C3-C6B853C0DF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC64749B-133B-40D1-88C3-C6B853C0DF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A2522C-4AC0-48D9-A5BE-BC602804D954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A2522C-4AC0-48D9-A5BE-BC602804D954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A2522C-4AC0-48D9-A5BE-BC602804D954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A2522C-4AC0-48D9-A5BE-BC602804D954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B31419B-4B96-492F-996C-5EB77E0C4FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B31419B-4B96-492F-996C-5EB77E0C4FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B31419B-4B96-492F-996C-5EB77E0C4FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B31419B-4B96-492F-996C-5EB77E0C4FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

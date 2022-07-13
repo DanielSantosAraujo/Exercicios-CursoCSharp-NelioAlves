@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\bin\Debug\net6.0\TratamentoDeExceções.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\bin\Debug\net6.0\TratamentoDeExceções.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\bin\Debug\net6.0\TratamentoDeExceções.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\bin\Debug\net6.0\TratamentoDeExceções.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\bin\Debug\net6.0\TratamentoDeExceções.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\refint\TratamentoDeExceções.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\TratamentoDeExceções.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\TratamentoDeExceções\obj\Debug\net6.0\ref\TratamentoDeExceções.dll
