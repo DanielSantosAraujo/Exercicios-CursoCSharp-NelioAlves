@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\refint\ClassesAbstratas.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\ClassesAbstratas\obj\Debug\net6.0\ref\ClassesAbstratas.dll
