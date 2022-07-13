@@ -1,0 +1,15 @@
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\bin\Debug\net6.0\MetodoAbstratosExercicioProposto.exe
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\bin\Debug\net6.0\MetodoAbstratosExercicioProposto.deps.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\bin\Debug\net6.0\MetodoAbstratosExercicioProposto.runtimeconfig.json
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\bin\Debug\net6.0\MetodoAbstratosExercicioProposto.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\bin\Debug\net6.0\MetodoAbstratosExercicioProposto.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.csproj.AssemblyReference.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.AssemblyInfo.cs
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\refint\MetodoAbstratosExercicioProposto.dll
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.pdb
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\MetodoAbstratosExercicioProposto.genruntimeconfig.cache
+C:\Users\f5tes\Documents\C# Programação orientada a objetos\Classes\MetodoAbstratosExercicioProposto\obj\Debug\net6.0\ref\MetodoAbstratosExercicioProposto.dll
